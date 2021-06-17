@@ -1,0 +1,13 @@
+D:\Рабочий стол\Bank\Bank\bin\Debug\Bank.exe.config
+D:\Рабочий стол\Bank\Bank\bin\Debug\Bank.exe
+D:\Рабочий стол\Bank\Bank\bin\Debug\Bank.pdb
+D:\Рабочий стол\Bank\Bank\obj\Debug\Bank.csprojResolveAssemblyReference.cache
+D:\Рабочий стол\Bank\Bank\obj\Debug\Bank.Form_Main.resources
+D:\Рабочий стол\Bank\Bank\obj\Debug\Bank.Properties.Resources.resources
+D:\Рабочий стол\Bank\Bank\obj\Debug\Bank.csproj.GenerateResource.Cache
+D:\Рабочий стол\Bank\Bank\obj\Debug\Bank.exe
+D:\Рабочий стол\Bank\Bank\obj\Debug\Bank.pdb
+D:\Рабочий стол\Bank\Bank\obj\Debug\Bank.Form_Random.resources
+D:\Рабочий стол\Bank\Bank\obj\Debug\Bank.Form_Deposit.resources
+D:\Рабочий стол\Bank\Bank\obj\Debug\Bank.Form_Credit.resources
+D:\Рабочий стол\Bank\Bank\obj\Debug\Bank.Form_NewClient.resources

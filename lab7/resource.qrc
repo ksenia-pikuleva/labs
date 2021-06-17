@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="start">resources/play.png</file>
+        <file alias="journal">resources/book.png</file>
+        <file alias="pause">resources/pause.png</file>
+        <file alias="stop">resources/stop.png</file>
+        <file alias="add">resources/add.png</file>
+        <file alias="list">resources/folder.png</file>
+    </qresource>
+</RCC>
